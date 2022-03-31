@@ -1,2 +1,2 @@
 # SoftUni-Programming-Basics-Python
-Problems solving from the course
+Problems solving from the module.
